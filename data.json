@@ -1,0 +1,50 @@
+{
+  "name": {
+    "first":  "Adam",
+    "middle": "Charles",
+    "last":   "Morse"
+  },
+  "social": [
+    {
+      "title": "twitter",
+      "url": "http://twitter.com/mrmrs_"
+    },
+    {
+      "title": "github",
+      "url": "http://github.com/mrmrs"
+    },
+    {
+      "title": "dribbble",
+      "url": "http://dribbble.com/mrmrs"
+    },
+    {
+      "title": "instagram",
+      "url": "http://instagram.com/mrmrs_"
+    },
+    {
+      "title": "soundcloud",
+      "url": "http://soundcloud.com/mr_mrs"
+    },
+    {
+      "title": "exposure",
+      "url": "http://mrmrs.exposure.com/"
+    },
+    {
+      "title": "flickr",
+      "url": "http://flickr.com/photos/heyitsadam
+    }
+  ],
+  "homepage": "http://mrmrs.cc",
+  "sites": [
+    {
+      "title": "Mrs Jxn",
+      "url": "http://mrsjxn.com",
+      "tags": ["jxnblk", "music"]
+    },
+    {
+      "title": "Ill Lillies",
+      "url": "http://mrmrs.github.io/ill",
+      "tags": ["ill lillies", "music"]
+    }
+  ]
+}
