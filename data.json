@@ -71,11 +71,39 @@
       "tags": ["css", "oocss", "design", "open source", "buttons"]
     },
     {
+      "title": "Tachyons",
+      "subtitle": "The fastest css framework in the world",
+      "url": "http://clrs.cc",
+      "tags": ["css", "oocss", "design", "open source", "design", "ui"]
+    },
+    {
+      "title": "CSS Uncut",
+      "subtitle": "The entire css language in one file.",
+      "url": "http://github.com/mrmrs/css-uncut",
+      "tags": ["css", "oocss", "design", "open source", "design", "ui"]
+    },
+    {
       "title": "Pesticide",
       "subtitle": "Kill your css layout bugs quickly and easily.",
       "url": "http://pesticide.io",
       "repo": "http://github.com/mrmrs/pesticide",
       "tags": ["css", "debugging", "open source", "browser extension"]
+    }
+  ],
+  "reading": [
+    {
+      "title": "title",
+      "author": "name",
+      "url": "name",
+      "tags": [],
+    }
+  ],
+  "listening": [
+    {
+      "title": "title",
+      "artist": "name",
+      "url": "name",
+      "tags": [],
     }
   ]
 }
