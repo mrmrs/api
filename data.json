@@ -4,6 +4,7 @@
     "middle": "Charles",
     "last":   "Morse"
   },
+  "birthday": "18-04-1984",
   "social": [
     {
       "title": "twitter",
@@ -39,12 +40,42 @@
     {
       "title": "Mrs Jxn",
       "url": "http://mrsjxn.com",
-      "tags": ["jxnblk", "music"]
+      "tags": ["jxnblk", "music", "post future"]
     },
     {
       "title": "Ill Lillies",
       "url": "http://mrmrs.github.io/ill",
-      "tags": ["ill lillies", "music"]
+      "tags": ["ill lillies", "music", "arthouse"]
+    },
+    {
+      "title": "Mrmrs Beats",
+      "url": "http://mrmrs.io/beats",
+      "tags": ["mrmrs", "music", "electronic"]
+    },
+    {
+      "title": "Colors",
+      "subtitle": "A better color palette for the web",
+      "url": "http://clrs.cc",
+      "tags": ["css", "oocss", "design", "colors"]
+    },
+    {
+      "title": "CSS Stats",
+      "subtitle": "Visualizing your css",
+      "url": "http://cssstats.com",
+      "tags": ["styleguide", "css", "oocss", "design"]
+    },
+    {
+      "title": "Btns",
+      "subtitle": "A simple css module for creating ",
+      "url": "http://clrs.cc",
+      "tags": ["css", "oocss", "design", "open source", "buttons"]
+    },
+    {
+      "title": "Pesticide",
+      "subtitle": "Kill your css layout bugs quickly and easily.",
+      "url": "http://pesticide.io",
+      "repo": "http://github.com/mrmrs/pesticide",
+      "tags": ["css", "debugging", "open source", "browser extension"]
     }
   ]
 }
